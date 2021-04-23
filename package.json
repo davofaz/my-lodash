@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "my lodash scripts",
+  "main": "index.js",
+  "dependencies": {
+    "git": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "my-lodash"
+  },
+  "keywords": [
+    "loadash"
+  ],
+  "author": "david fazaldin fazaa ltd",
+  "license": "ISC"
+}
