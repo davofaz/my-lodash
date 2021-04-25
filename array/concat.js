@@ -25,7 +25,7 @@ function concatArray(arr1,arr2) {
     //console.log("aray1: " + arr1);
     //console.log(arr1,...arr2)
     //return [].concat(arr1,arr2)
-    return [].concat(arr1,...arr2);
+    return [].concat(...arr1,...arr2);
 
 
 }
